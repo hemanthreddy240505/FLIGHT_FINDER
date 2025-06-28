@@ -41,7 +41,7 @@ Demo
 Documentation
 -https://drive.google.com/file/d/1vHiJ3P3BmQYZdlO9mtWc9gUwJnHouWiM/view?usp=sharing
 
-Project Structure
+#Project Structure
 flight_booking_app/
 ├── public/
 │   └── index.html
