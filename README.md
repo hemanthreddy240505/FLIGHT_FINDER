@@ -42,16 +42,16 @@ Documentation
 -https://drive.google.com/file/d/1vHiJ3P3BmQYZdlO9mtWc9gUwJnHouWiM/view?usp=sharing
 
 #Project Structure
-flight_booking_app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   └── FlightSearch.js
-│   ├── App.js
-│   ├── index.js
-│   └── App.css
-├── package.json
+-#flight_booking_app
+-#├── public/
+-#├│   └── index.html
+-#├├── src/
+-#├│   ├── components/
+-#├│   │   └── FlightSearch.js
+-#├│   ├── App.js
+-#├│   ├── index.js
+-#├│   └── App.css
+-#├├── package.json
 
 - components/: Reusable React components
 - App.js: Main application component
